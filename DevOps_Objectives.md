@@ -21,3 +21,7 @@ In a DevOps culture, development and operations teams work together to achieve c
 #### With DevOps:
    - Both development and operations are on the same team.
    - The aims of development and operations are the same.
+
+#### DevOps Goals 
+
+DevOps aims for stability and speed. A DevOps organization's purpose is to reduce **time-to-market(TTM)**. **Time-to-market(TTM)** is the time it takes to bring a product from a development team to a client. Time-to-market is the time it takes from coding completion to functioning in production. And the quicker the organization can advertise, the better.
