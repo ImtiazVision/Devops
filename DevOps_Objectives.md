@@ -16,7 +16,7 @@ Speed and stability are important goals, but because the development and operati
 
 #### DevOps saves the day
 
-In a DevOps culture, development and operations teams work together to achieve common objectives. And they're both measured by the same standards. Speed and stability are critical. DevOps culture has recognized that when development and operations work together, they can uncover solutions and create tools that help a company achieve both speed and stability while allowing development, frequent and rapid deployment, and robust system changes while maintaining customer stability. So both aims are achieved far more effectively than when two different factions attack one other.
+DevOps believes that collaboration between development and operations is powerful. In a DevOps culture, development and operations teams work together to achieve common objectives. And they're both measured by the same standards. Speed and stability are critical. DevOps culture has recognized that when development and operations work together, they can uncover solutions and create tools that help a company achieve both speed and stability while allowing development, frequent and rapid deployment, and robust system changes while maintaining customer stability. So both aims are achieved far more effectively than when two different factions attack one other.
 
 #### With DevOps:
    - Both development and operations are on the same team.
