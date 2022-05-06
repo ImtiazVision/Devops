@@ -27,3 +27,5 @@ In a DevOps culture, development and operations teams work together to achieve c
 DevOps aims for stability and speed. A DevOps organization's purpose is to reduce **time-to-market(TTM)**. **Time-to-market(TTM)** is the time it takes to bring a product from a development team to a client. Time-to-market is the time it takes from coding completion to functioning in production. And the quicker the organization can advertise, the better.
 
 Another purpose is to reduce manufacturing failures. This brings us back to the topic of stability. The greater the number of manufacturing failures, the greater the insecurity. So, if we want production to be stable, we must ensure that there are a few production failures, and we must create solutions that will enable us to deploy rapidly so that we can come to market quickly while also limiting the amount of failures produced by those modifications.
+
+Another aim related to stability is quick recovery from failures. Failures are unavoidable in the real world. Mistakes will be made, and everything will fall apart. Any organization that does not acknowledge this is delusionary, since it will always happen.
