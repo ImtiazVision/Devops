@@ -1,4 +1,4 @@
-### AWS Lambda :
+### AWS Lambda 
 
 **Lambda** : This is a service that allows us to upload a function to AWS and pay for each time the code is performed or called.
 
