@@ -5,7 +5,7 @@
 - DevOps and Agile often go hand in hand.
 
 
-### Timeline of DevOps
+### Timeline of DevOps :
 
 2007: Agile software development was gaining popularity, but it was also beset by a growing schism between development and operations.
 Patrick Debois, an engineer with experience in both development and operations, was testing on a project in 2007 when he became frustrated by the vast difference between the two.
