@@ -1,4 +1,4 @@
-### The goad of DevOps 
+### The goad of DevOps :
 
 #### The shortcomings of traditional approach 
 
